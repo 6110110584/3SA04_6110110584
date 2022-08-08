@@ -1,5 +1,5 @@
 # 3SA04: React Native
-นายสุทธิรัก มัธยวีรเกียรติ 6210110383 Section 01
+นายจตุพร แสงราวี 6110110584 Section 02
 
 ## [Commit #1 location searching](https://github.com/suttirak-mattaya/react_native-3sa04-wt_app/commit/e5014f13b6b01b1dae94a6e5ac01fc0852e0b7b0)
 - เปลี่ยนแปลง โฟลเดอร์ Components -> src
